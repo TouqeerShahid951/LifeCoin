@@ -1,0 +1,13 @@
+.life{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+.h2{
+  font-weight: bold;
+  font-size: 36px;
+  color: black;
+  font-family: sans-serif;
+}
